@@ -1,6 +1,7 @@
 # maurogoodjob
-This loop takes in names while it doesn't take in numbers.
+This loop takes in names while it doesn't take in numbers
 
 FANS:
 
-![Screenshot_20250520-112154_YouTube](https://github.com/user-attachments/assets/68dd6b89-414c-4ab6-b6c5-3f843e29a9d8)
+![20250520_112859](https://github.com/user-attachments/assets/11d306fa-d483-47b4-baa6-f0adbf6193e1)
+
